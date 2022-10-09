@@ -4,7 +4,7 @@ This repository contains code and data to train and use ML algorithms to detect 
 
 ## Getting started
 
-To clone this repository, git lfs must be set up on your computer https://git-lfs.github.com/.
+To clone this repository, [git lfs](https://git-lfs.github.com/) must be set up on your computer .
 
 Explore the notebooks [train-random-forest.ipynb](https://github.com/ghislainp/caliop-slstr-cloud-mask/blob/main/notebooks/train-random-forest.ipynb) and [use-random-forest.ipynb](https://github.com/ghislainp/caliop-slstr-cloud-mask/blob/main/notebooks/use-random-forest.ipynb).
 
